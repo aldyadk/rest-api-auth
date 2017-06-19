@@ -1,0 +1,32 @@
+{
+  "name": "rest-api-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "mongodb": "^2.2.27",
+    "mongoose": "^4.10.3",
+    "nodemon": "^1.11.0",
+    "tgl": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldyadk/rest-api-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldyadk/rest-api-auth/issues"
+  },
+  "homepage": "https://github.com/aldyadk/rest-api-auth#readme"
+}
